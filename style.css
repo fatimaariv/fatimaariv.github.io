@@ -39,7 +39,6 @@ h2{
 .text{
     font-family: Arial, sans-serif;
     font-size: 18px;
-    text-align: justify;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -56,8 +55,7 @@ h2{
 .components p {
     font-family: Arial, sans-serif;
     font-size: 18px;
-    text-align: justify;
-    margin-left: 20px;
+    margin-left: 30px;
     margin-right: 20px;
 }
 
@@ -68,8 +66,21 @@ h2{
     margin-right: 20px;
 }
 
+.components .energiaDiv img {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 500px;
+    width: 500px;
+    margin-top: 60px;
+    border-radius: 15px;
+}
 
+.info p{
+    color: white;
+    text-align: right;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    margin-left: 770px;
 
-
-
-
+}
