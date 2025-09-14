@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+nav {
+    background-color: #46b549;
+    padding: 20px;
+    display: flex;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 1000;
+}
+nav h1 {
+    color: white;
+    margin:0;
+    font-family: Arial, sans-serif;
+    font-size: 34px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+nav img {
+    height: 50px;
+    width: 50px;
+}
+.content {
+    margin-top: 60px; 
+    padding: 20px;
+}
+
+
